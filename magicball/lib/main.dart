@@ -8,7 +8,7 @@ void main() => runApp(MaterialApp(
           title: const Text("Ask Me Anything"),
           backgroundColor: Colors.blue[700],
         ),
-        body: Ball(),
+        body: const Ball(),
       ),
     ));
 
@@ -35,10 +35,8 @@ class _BallState extends State<Ball> {
                 },
               );
             },
-            child: Expanded(
-              child: Image(
-                image: AssetImage('images/ball$ballNum.png'),
-              ),
+            child: Image(
+              image: AssetImage('images/ball$ballNum.png'),
             ),
           ),
         ],
