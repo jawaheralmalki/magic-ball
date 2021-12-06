@@ -5,7 +5,7 @@ Completing a challenge,app to choosing random answers
 
 ## The Problems I encountered :
 
-appear " Shader Compilation Error " in console .. the app is run but I dont wont it on console..
+appear " Shader Compilation Error " in console .. the app is working but I dont wont it on console..
 the solve in this link " https://flutteragency.com/how-to-solve-shader-compilation-error-in-flutter/  "
 
 ## Screen
